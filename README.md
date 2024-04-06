@@ -1,2 +1,2 @@
 # MovieApp
-search for movies
+search for movies and series, you get information that you want.
